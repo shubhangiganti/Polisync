@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #ff4b5c;
+    color: white;
+    padding: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #ff4b5c;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
