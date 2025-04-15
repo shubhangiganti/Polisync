@@ -1,0 +1,38 @@
+.header {
+    background-color: #0D1B2A;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    color: #E0E1DD;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #E0E1DD;
+  }
+  
+  .nav a {
+    color: #E0E1DD;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  .nav a:hover {
+    color: #778DA9;
+  }
+  
+  .login, .register {
+    margin-left: 1rem;
+    cursor: pointer;
+    color: #E0E1DD;
+  }
+  
+  .login:hover, .register:hover {
+    color: #415A77;
+  }
+  
